@@ -57,7 +57,7 @@ ngx.ctx.authenticated_consumer = {
 
 If you're using `luarocks` execute the following:
 
-     luarocks install kong-oidc
+     luarocks install lzq-kong-oidc
 
 You also need to set the `KONG_PLUGINS` environment variable
 
